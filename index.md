@@ -229,6 +229,20 @@ Display the contact email address set in the configuration file.
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
 
+
+<p>
+  <a href="https://www.zbmed.de/">
+    <img src="https://www.zbmed.de/typo3conf/ext/dreipc_zbmed/Resources/Public/Image/ZBMED_2017_DE.svg" alt="ZB MED" height="100"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://www.denbi.de/">
+    <img src="https://www.denbi.de/templates/nbimaster/img/denbi-logo-color.svg" alt="deNBIheight="100"/>
+  </a>
+</p>
+
+
 <hr/>
 
 {% comment%}
