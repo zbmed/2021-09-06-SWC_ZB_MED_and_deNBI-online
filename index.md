@@ -238,7 +238,7 @@ Display the contact email address set in the configuration file.
 
 <p>
   <a href="https://www.denbi.de/">
-    <img src="https://www.denbi.de/templates/nbimaster/img/denbi-logo-color.svg" alt="deNBIheight="100"/>
+    <img src="https://www.denbi.de/templates/nbimaster/img/denbi-logo-color.svg" alt="deNBI" height="100"/>
   </a>
 </p>
 
