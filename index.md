@@ -180,7 +180,6 @@ special instructions.
   notify the instructors in advance of the workshop if you require any accommodations or if there is
   anything we can do to make this workshop more accessible to you.
 </p>
-{% endif %}
 
 {% comment %}
 CONTACT EMAIL ADDRESS
